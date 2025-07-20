@@ -102,7 +102,6 @@ streamlit run app/frontend/ui.py
 * ✅ **Auto-Summarization** of transcript
 * ✅ **Confidence Score** for detected intent
 * ✅ **Multi-language Support**
-* ✅ **Dark Mode Toggle**
 
 ---
 
