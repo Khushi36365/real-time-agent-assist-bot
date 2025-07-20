@@ -92,8 +92,6 @@ streamlit run app/frontend/ui.py
 
 ---
 
----
-
 ## 📝 Assumptions
 - The audio input is clear and in English for accurate transcription.
 - Internet connectivity is available for downloading Whisper models during the first run.
@@ -109,7 +107,6 @@ streamlit run app/frontend/ui.py
 - Screenshots & Detailed README for easy setup and clarity.
 - Future-ready: Can integrate multi-language support, auto-summarization, and GPT-based intent detection.
 
----
 
 ---
 
