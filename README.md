@@ -105,7 +105,7 @@ streamlit run app/frontend/ui.py
 - Fully Functional UI built with Streamlit, which is interactive and user-friendly.
 - Real-Time Processing – Transcription and intent detection in one click.
 - Screenshots & Detailed README for easy setup and clarity.
-- Future-ready: Can integrate multi-language support, auto-summarization, and GPT-based intent detection.
+- Future-ready – Can integrate multi-language support, auto-summarization, and GPT-based intent detection.
 
 
 ---
