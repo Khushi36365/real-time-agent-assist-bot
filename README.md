@@ -86,11 +86,19 @@ streamlit run app/frontend/ui.py
 
 ---
 
+## 🎥 Demo Video
+
+[Watch Demo Video](https://drive.google.com/file/d/1VwMRFLi_htpZ0--baaytAApG3EBtJSvC/view?usp=sharing)
+
+---
+
+---
+
 ## 🔥 Future Enhancements
 
-* ✅ **Auto-Summarization** of transcript
-* ✅ **Confidence Score** for detected intent
-* ✅ **Multi-language Support**
+* **Auto-Summarization** of transcript
+* **Confidence Score** for detected intent
+* **Multi-language Support**
 
 ---
 
