@@ -6,7 +6,7 @@
 
 ---
 
-## Overview
+## 🎯 Overview
 The **Real-Time Agent Assist Bot** is an AI-powered tool designed to help customer support agents by:
 - Converting **audio (recorded or uploaded) to text** in real time using **Whisper**
 - Detecting the **intent** of the query using rule-based logic (or GPT if enabled)
