@@ -86,17 +86,6 @@ streamlit run app/frontend/ui.py
 
 ---
 
-## 🖼️ Screenshots
-
-(Add screenshots after running the app)
-
-```
-![Home Page](assets/ui.png)
-![Processing](assets/processing.png)
-```
-
----
-
 ## 🔥 Future Enhancements
 
 * ✅ **Auto-Summarization** of transcript
@@ -108,4 +97,7 @@ streamlit run app/frontend/ui.py
 ## 👩‍💻 Author
 
 **Khushi**
-📌 [LinkedIn](https://www.linkedin.com/in/khushi-jhamb/) | 📌 [GitHub](https://github.com/Khushi36365)
+
+📌 [LinkedIn](https://www.linkedin.com/in/khushi-jhamb/) 
+
+📌 [GitHub](https://github.com/Khushi36365)
