@@ -96,7 +96,7 @@ streamlit run app/frontend/ui.py
 
 ## 👩‍💻 Author
 
-**Khushi**
+### **Khushi**
 
 📌 [LinkedIn](https://www.linkedin.com/in/khushi-jhamb/) 
 
