@@ -17,11 +17,11 @@ This solution enhances **response time**, **accuracy**, and **customer experienc
 ---
 
 ## 🚀 Features
-✔ Upload an audio file **or** record live audio  
-✔ **Real-time transcription** with Whisper  
-✔ **Intent detection** (via rule-based logic, no API required)  
-✔ Smart **predefined responses** for common issues  
-✔ **Interactive Streamlit UI** with progress indicators  
+* Upload an audio file **or** record live audio  
+* **Real-time transcription** with Whisper  
+* **Intent detection** (via rule-based logic, no API required)  
+* Smart **predefined responses** for common issues  
+* **Interactive Streamlit UI** with progress indicators  
 
 ---
 
@@ -89,6 +89,25 @@ streamlit run app/frontend/ui.py
 ## 🎥 Demo Video
 
 [Watch Demo Video](https://drive.google.com/file/d/1VwMRFLi_htpZ0--baaytAApG3EBtJSvC/view?usp=sharing)
+
+---
+
+---
+
+## 📝 Assumptions
+- The audio input is clear and in English for accurate transcription.
+- Internet connectivity is available for downloading Whisper models during the first run.
+- The system has Python 3.9+ and can install required dependencies without GPU (CPU mode used).
+- For intent detection, a basic rule-based system is used instead of GPT (due to API quota limits).
+
+---
+
+## 🌟 Highlights
+- Dual Input Support – Users can record live audio or upload audio files.
+- Fully Functional UI built with Streamlit, which is interactive and user-friendly.
+- Real-Time Processing – Transcription and intent detection in one click.
+- Screenshots & Detailed README for easy setup and clarity.
+- Future-ready: Can integrate multi-language support, auto-summarization, and GPT-based intent detection.
 
 ---
 
